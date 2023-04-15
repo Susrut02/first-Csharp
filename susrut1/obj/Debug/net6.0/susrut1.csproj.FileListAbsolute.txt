@@ -1,0 +1,15 @@
+C:\Sushrut\Education\C#\susrut1\bin\Debug\net6.0\susrut1.exe
+C:\Sushrut\Education\C#\susrut1\bin\Debug\net6.0\susrut1.deps.json
+C:\Sushrut\Education\C#\susrut1\bin\Debug\net6.0\susrut1.runtimeconfig.json
+C:\Sushrut\Education\C#\susrut1\bin\Debug\net6.0\susrut1.dll
+C:\Sushrut\Education\C#\susrut1\bin\Debug\net6.0\susrut1.pdb
+C:\Sushrut\Education\C#\susrut1\obj\Debug\net6.0\susrut1.csproj.AssemblyReference.cache
+C:\Sushrut\Education\C#\susrut1\obj\Debug\net6.0\susrut1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sushrut\Education\C#\susrut1\obj\Debug\net6.0\susrut1.AssemblyInfoInputs.cache
+C:\Sushrut\Education\C#\susrut1\obj\Debug\net6.0\susrut1.AssemblyInfo.cs
+C:\Sushrut\Education\C#\susrut1\obj\Debug\net6.0\susrut1.csproj.CoreCompileInputs.cache
+C:\Sushrut\Education\C#\susrut1\obj\Debug\net6.0\susrut1.dll
+C:\Sushrut\Education\C#\susrut1\obj\Debug\net6.0\refint\susrut1.dll
+C:\Sushrut\Education\C#\susrut1\obj\Debug\net6.0\susrut1.pdb
+C:\Sushrut\Education\C#\susrut1\obj\Debug\net6.0\susrut1.genruntimeconfig.cache
+C:\Sushrut\Education\C#\susrut1\obj\Debug\net6.0\ref\susrut1.dll
